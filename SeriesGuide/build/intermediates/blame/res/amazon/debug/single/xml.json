@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\settings_advanced.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\xml\\settings_advanced.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\settings_root.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\amazon\\res\\xml\\settings_root.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\settings_basic.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\xml\\settings_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\settings_notifications.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\xml\\settings_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\analytics.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\xml\\analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\appwidget_v11_info.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\xml\\appwidget_v11_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\sync_seriesguide.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\amazon\\res\\xml\\sync_seriesguide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\accountauth.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\amazon\\res\\xml\\accountauth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\searchable.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\amazon\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\shortcuts.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\amazon\\res\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\settings_dashclock.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\xml\\settings_dashclock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\xml\\appwidget_info.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\xml\\appwidget_info.xml"
+    }
+]

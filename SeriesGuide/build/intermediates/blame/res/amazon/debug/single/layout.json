@@ -1,0 +1,850 @@
+[
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_stream.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\ratings_shows.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\ratings_shows.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_billing.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_billing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_movies_discover.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_movies_discover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\appwidget.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\appwidget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar_search_v21.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar_search_v21.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\layout_episode.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\layout_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\drawer_item_account.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\drawer_item_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_checkin.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_checkin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar_v21.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar_v21.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dd_debug_drawer_module_network.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\5b99470bade42b1c4140d811d38c649742ae2cb2\\output\\res\\layout\\dd_debug_drawer_module_network.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_buttons.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_fullscreen_image.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_fullscreen_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_episodes_multipane.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_episodes_multipane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dd_debug_drawer_module_actions.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\f9f6331701aa186694de4ca66907942326fe95d4\\output\\res\\layout\\dd_debug_drawer_module_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_people_twopane.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_people_twopane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_show_regular.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_show_regular.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_history_movie.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_history_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_singlepane_drawer.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_singlepane_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\grid_shows.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\grid_shows.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_list_checked.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_list_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\layout_snackbar_sg.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\layout_snackbar_sg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\feedback_view.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\feedback_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_shows.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_shows.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_person.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dd_debug_drawer_module_log.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\187572201451637b5a8cfac5f89d11eb630a3e3b\\output\\res\\layout\\dd_debug_drawer_module_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_tabs_drawer.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_tabs_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\debug_drawer.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\debug_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_now.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_now.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_extensions_configuration.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_extensions_configuration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\feedback_view_include.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\feedback_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_action.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\appwidget_v11_light_compact.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\appwidget_v11_light_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_episodes.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_episodes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar_progress_v21.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar_progress_v21.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_episode.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\appwidget_v11.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\appwidget_v11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_oauth.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_oauth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\view_first_run.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\view_first_run.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar_gradient_fit.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar_gradient_fit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_now_history.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_now_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_movies.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_overview_multipane.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_overview_multipane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_grid_header.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_grid_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar_transparent.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_now_more.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_now_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_now_released.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_now_released.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_addshow_tvdb.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_addshow_tvdb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar_transparent_with_spinner.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar_transparent_with_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_discover_movie.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_discover_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_episode.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_calendar.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\buttons_show.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\buttons_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_time_offset.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_time_offset.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_addshow.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_addshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_addshow_wide.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_addshow_wide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_season.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_season.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dd_debug_drawer_module_settings.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\5b99470bade42b1c4140d811d38c649742ae2cb2\\output\\res\\layout\\dd_debug_drawer_module_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_dropdown.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_notification_threshold.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_notification_threshold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_webview.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_localization.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_localization.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_cloud_setup.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_cloud_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_stats.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_people.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\cast_and_crew.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\cast_and_crew.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_data_liberation.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_data_liberation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\appwidget_big_item.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\appwidget_big_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_trakt_rate.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_trakt_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_remove.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_shows.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_shows.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_notification_selection.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_notification_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_overview_multipane_wide.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_overview_multipane_wide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_buttons_divided.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_buttons_divided.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_movie.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_person.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_spinner_title.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_spinner_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\appwidget_v11_compact.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\appwidget_v11_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\drawer_left.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\drawer_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_history.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_connect_trakt_credentials.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_connect_trakt_credentials.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_episodes.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_episodes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\buttons_show_bottom.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\buttons_show_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\buttons_episode.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\buttons_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_movies_search.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_movies_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\tabstrip_item_transparent.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\tabstrip_item_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_dropdown_light.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_dropdown_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_show.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_movies_search.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_movies_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dd_debug_drawer_module_device.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\5b99470bade42b1c4140d811d38c649742ae2cb2\\output\\res\\layout\\dd_debug_drawer_module_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_backup.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dd_debug_drawer_module_build.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\5b99470bade42b1c4140d811d38c649742ae2cb2\\output\\res\\layout\\dd_debug_drawer_module_build.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\buttons_services_stacked.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\buttons_services_stacked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar_search.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_episode_v21.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_episode_v21.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\appwidget_v11_header.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\appwidget_v11_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_people.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\layout_movie.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\layout_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_auto_backup.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_auto_backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_extension_add.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_extension_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_manage_lists.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_manage_lists.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\layout_add_indicator.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\layout_add_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\ratings_movies.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\ratings_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_movie.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_now_history_movie.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_now_history_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_extension.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_extension.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_connect_trakt_info.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_connect_trakt_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_list_manage.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_list_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\buttons_episode_more.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\buttons_episode_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_search_result.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\buttons_services_wide.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\buttons_services_wide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_discover_link.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_discover_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dd_item_log_entry.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\187572201451637b5a8cfac5f89d11eb630a3e3b\\output\\res\\layout\\dd_item_log_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_comments_wide.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_comments_wide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_amazon_billing.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\amazon\\res\\layout\\activity_amazon_billing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar_progress.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\appwidget_v11_light.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\appwidget_v11_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_show_wide.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_show_wide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_list.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_seasons.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_seasons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_connect_trakt_finished.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_connect_trakt_finished.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\toolbar_gradient.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\toolbar_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_overview.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_singlepane.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_singlepane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_notification_selection.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_notification_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_addshow_trakt.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_addshow_trakt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_first_run.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_first_run.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\empty_view.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_action_add.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_action_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\progress_container.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\progress_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_episode.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_discover_header.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_discover_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_show_narrow.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_show_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_movie.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\ratings_shows_narrow.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\ratings_shows_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_person.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\buttons_movie.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\buttons_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\drawer_left_nofitssystemwindows.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\drawer_left_nofitssystemwindows.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_person_wide.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_person_wide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_episodes_multipane_wide.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_episodes_multipane_wide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dialog_lists_reorder.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\dialog_lists_reorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_addshow.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_addshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_calendar.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\activity_overview.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\activity_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_comments.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\appwidget_row.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\appwidget_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\divider_horizontal.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\divider_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\item_comment.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\dd_debug_drawer_module_actions_spinner_item.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\f9f6331701aa186694de4ca66907942326fe95d4\\output\\res\\layout\\dd_debug_drawer_module_actions_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\appwidget_row_light.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\appwidget_row_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\fragment_show_meta.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\fragment_show_meta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\tabstrip_item_allcaps.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\layout\\tabstrip_item_allcaps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout\\notification_action.xml"
+    }
+]

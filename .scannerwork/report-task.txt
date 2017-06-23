@@ -1,0 +1,6 @@
+projectKey=my:seriesguide
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/my:seriesguide
+ceTaskId=AVzWhnUQGefkE1D5UH8Q
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVzWhnUQGefkE1D5UH8Q

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\interpolator\\accelerate_quad_sg.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\interpolator\\accelerate_quad_sg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\interpolator\\decelerate_quad_sg.xml",
+        "source": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\interpolator\\decelerate_quad_sg.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\res\\merged\\amazon\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]

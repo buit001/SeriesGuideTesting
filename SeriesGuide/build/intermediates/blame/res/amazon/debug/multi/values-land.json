@@ -1,0 +1,161 @@
+[
+    {
+        "outputFile": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\build\\intermediates\\incremental\\mergeAmazonDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 63,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 70,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 67,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\Tan\\.android\\build-cache\\6e8170909e7831fdb22b0a4392eac1a9152e4c95\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 48,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 48,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 49,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 82,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "C:\\Users\\Tan\\Desktop\\Automated Software Validation\\SeriesGuideASV\\SeriesGuide\\src\\main\\res\\values-land\\layouts.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 82,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Users\\Tan\\.android\\build-cache\\d0fe3656e039d1c6aea41162d462f1c2649a2886\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]
