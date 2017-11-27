@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="api.seriesguide-api-1.3.0">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/api/build/libs/seriesguide-api-1.3.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
